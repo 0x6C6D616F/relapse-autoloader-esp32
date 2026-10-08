@@ -80,3 +80,12 @@ elfldr is listening on port 9021
 ```
 
 This is also normal. This will take over a minute as the ESP32 devices are slow.
+
+
+### Credits
+jordyidk & contributors — slopkit (Poops)
+soniciso1, ntfargo & contributors — Relapse
+john-tornblom — ps5-payload-sdk and elfldr
+itsPLK & contributors — ps5-webkit-autoloader
+See ps5-webkit-remote-loader for runtime and toolchain credits.
+Everyone else contributing to the PS5 homebrew scene.
