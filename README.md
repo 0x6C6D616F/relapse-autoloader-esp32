@@ -1,4 +1,3 @@
-# relapse-autoloader-esp32
 # Relapse ESP32 Autoloader
 
 Relapse ESP32 Autoloader is a MicroPython-based Relapse Autoloader for ESP32 boards.
